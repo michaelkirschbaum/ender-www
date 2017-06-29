@@ -1,26 +1,25 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Ender",
+  "version": "0.0.1",
+  "description": "Website for Ender",
   "engines": {
-    "node": "6.10.2"
+    "node": "8.1.2"
   },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "^4.15.2",
     "pug": "^2.0.0-rc.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/michaelkirschbaum/ender-site"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
-  ],
-  "license": "MIT"
+  ]
 }
