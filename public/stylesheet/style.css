@@ -11,7 +11,7 @@ h1 {
   text-align: center;
   color: #A9C5E6;
 }
-p {
+.description {
   color: #A9C5E6;
   margin-left: 25px;
   margin-right: 25px;
@@ -22,7 +22,11 @@ p {
 }
 h2 {
   padding-top: 15px;
+  padding-bottom: 15px;
   color: black;
+  text-align: center;
+}
+.app {
   text-align: center;
 }
 footer {
