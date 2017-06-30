@@ -16,13 +16,14 @@ p {
   margin-left: 25px;
   margin-right: 25px;
 }
-.content {
-  background-color: white;
+.download {
+  background-color: #807d74;
   height: 305px;
 }
-.register {
-  background-color: white;
-  height: 305px;
+h2 {
+  padding-top: 15px;
+  color: black;
+  text-align: center;
 }
 footer {
   background-color: black;
