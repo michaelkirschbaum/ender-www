@@ -3,7 +3,7 @@
 }
 .intro {
   background-color: #102026;
-  height: 305px;
+  height: 225px;
 }
 h1 {
   padding-top: 15px;
@@ -18,12 +18,13 @@ h1 {
 }
 .register {
   background-color: #807d74;
-  height: 305px;
+  height: 225px;
   text-align: center;
 }
 .download {
-  height: 305px;
+  height: 225px;
   text-align: center;
+  background-color: #a8d8f2;
 }
 h2 {
   padding-top: 15px;
@@ -34,6 +35,5 @@ footer {
   height: 75px;
 }
 .copyright {
-  padding-top: 15px;
   color: #807d74;
 }
