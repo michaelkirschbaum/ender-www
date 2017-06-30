@@ -3,7 +3,7 @@
 }
 .intro {
   background-color: #102026;
-  height: 375px;
+  height: 305px;
 }
 h1 {
   padding-top: 15px;
@@ -17,12 +17,17 @@ h1 {
   margin-right: 25px;
 }
 .register {
-  // background-color: #807d74;
+  background-color: #807d74;
   height: 305px;
   text-align: center;
 }
-.app {
+.download {
+  height: 305px;
   text-align: center;
+}
+h2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 footer {
   background-color: black;
