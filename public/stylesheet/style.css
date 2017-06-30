@@ -17,13 +17,8 @@ h1 {
   margin-right: 25px;
 }
 .register {
-  background-color: #807d74;
+  // background-color: #807d74;
   height: 305px;
-}
-h2 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  color: white;
   text-align: center;
 }
 .app {

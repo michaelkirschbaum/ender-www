@@ -1,7 +1,9 @@
 var express = require('express');
 var app = express();
 
-var psg = require('pg-promise')
+var pg = require('pg');
+
+pg.defaults.ssl = true;
 // var db = psg('')
 
 app.set('port', (process.env.PORT || 5000));
