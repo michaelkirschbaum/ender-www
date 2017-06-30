@@ -5,10 +5,6 @@
   background-color: #102026;
   height: 375px;
 }
-.content {
-  background-color: #807d74;
-  height: 375px;
-}
 h1 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -19,4 +15,20 @@ p {
   color: #A9C5E6;
   margin-left: 25px;
   margin-right: 25px;
+}
+.content {
+  background-color: white;
+  height: 375px;
+}
+.register {
+  background-color: white;
+  height: 375px;
+}
+footer {
+  background-color: black;
+  height: 75px;
+}
+.copyright {
+  padding-top: 15px;
+  color: white;
 }
