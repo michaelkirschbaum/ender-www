@@ -1,8 +1,10 @@
 .description {
+  margin-top: -20px;
   background-color: #102026;
   height: 350px;
 }
 h1 {
+  padding-top: 25px;
   text-align: center;
   color: #A9C5E6;
 }
