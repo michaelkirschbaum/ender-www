@@ -2,38 +2,39 @@
   margin: 0;
 }
 .intro {
-  background-color: #102026;
+  background-color: white; // #102026;
   height: 225px;
 }
 h1 {
   padding-top: 15px;
   padding-bottom: 15px;
   text-align: center;
-  color: #A9C5E6;
+  color: black; // #A9C5E6;
 }
 .description {
-  color: #A9C5E6;
+  color: black; // #A9C5E6;
   margin-left: 25px;
   margin-right: 25px;
 }
 .register {
-  background-color: #807d74;
+  background-color: white; // #807d74;
+  background-color: white;
   height: 225px;
   text-align: center;
 }
 .download {
   height: 225px;
   text-align: center;
-  background-color: #a8d8f2;
+  background-color: white; // #a8d8f2;
 }
 h2 {
   padding-top: 15px;
   padding-bottom: 15px;
 }
 footer {
-  background-color: black;
+  background-color: white;
   height: 75px;
 }
 .copyright {
-  color: #807d74;
+  color: black; // #807d74;
 }
