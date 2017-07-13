@@ -32,8 +32,9 @@ h2 {
   padding-bottom: 15px;
 }
 footer {
+  padding-top: 500px;
   background-color: white;
-  height: 75px;
+  // height: 75px;
 }
 .copyright {
   color: black; // #807d74;
